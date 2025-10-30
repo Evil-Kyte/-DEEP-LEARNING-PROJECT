@@ -26,3 +26,4 @@ Achieved accuracy: ~99% on test data
 Tools: Python, TensorFlow, Matplotlib
 
 This project demonstrates a strong understanding of deep learning principles, image processing, and neural network optimization, forming a foundation for more complex computer vision tasks.
+<img width="644" height="506" alt="Image" src="https://github.com/user-attachments/assets/4a56d948-17b7-4d05-baad-a24bba79f5b7" />
